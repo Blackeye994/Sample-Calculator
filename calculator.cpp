@@ -48,7 +48,7 @@ int main()
 			cout<<"Wrong operation you entered:"<<endl;
 	}
 	//loop is start.
-	for(int i = 0; i<=5; i++)
+	for(int i = 0; i<=10; i++)
 	{
 		cout<<"Enter your operator: ";
 		cin>>optr;
